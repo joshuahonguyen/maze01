@@ -1,0 +1,35 @@
+.floor {
+	background-color: green;
+}
+
+.wall {
+	background-color: gray;
+}
+
+#person {
+	background-color: yellow;
+}
+
+#goal {
+	background-color: purple;
+}
+
+#door {
+	background-color: brown;
+}
+
+#ant {
+	background-color: red;
+}
+
+.unknown {
+	background-color: darkgray;
+}
+
+.known {
+	background-color: lightgray;
+}
+
+#termite {
+	background-color: tan;
+}
